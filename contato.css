@@ -1,0 +1,243 @@
+/* Aluno: Arthur Guilherme do Nascimento Deboni */ /* Aluno: Arthur Guilherme do Nascimento Deboni */
+/* Matrícula: 1230105304 */ /* Matrícula: 1230105304 */
+/* Turma: A(Segunda e Quinta) */ /* Turma: A(Segunda e Quinta) */
+
+body
+{
+    color: white;
+    background-color: rgb(26, 26, 26);
+    font-family: monospace;
+}
+ul
+{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    font-size: 20px;
+    align-items: center;
+    padding-top: 15px;
+}
+#contato
+{
+    padding-right: 125px;
+}
+#blog
+{
+    color: white;
+    text-decoration: none;
+    padding-left: 60px;
+}
+#blog:hover
+{
+    color: rgb(235, 199, 0);
+    text-decoration: underline;
+}
+#contato
+{
+    color: white;
+    text-decoration: none;
+    padding-left: 115px;
+}
+#contato:hover
+{
+    color: rgb(235, 199, 0);
+    text-decoration:  underline;
+}
+#portfolio
+{
+    text-decoration: none;
+    color: white;
+    padding-right: 70px;
+}
+#portfolio:hover
+{
+    text-decoration: underline;
+    color: rgb(235, 199, 0);
+}
+#academico
+{
+    text-decoration: none;
+    color: white;
+    padding-right: 60px;
+}
+#academico:hover
+{
+    text-decoration: underline;
+    color: rgb(235, 199, 0);
+}
+#novidades
+{
+    text-decoration: none;
+    color: white;
+    padding-right: 200px;
+}
+#novidades:hover
+{
+    text-decoration: underline;
+    color: rgb(235, 199, 0);
+}
+.center
+{
+    text-align: center;
+}
+#img
+{
+    width: 190px;
+    border-radius: 120px;
+    border: 2px rgb(235, 199, 0) solid;
+    position: relative;
+    top: 20px;
+    zoom: 1.1;
+}   
+h1
+{
+    color: rgb(235, 199, 0);
+    padding-left: 30px;
+    font-size: 35px;
+}
+h2
+{
+    color: white;
+    font-size: 25px;
+    padding-left: 30px;
+}
+#instagram
+{
+    text-decoration: none;
+    color: white;
+}
+#instagram:hover
+{
+    color: rgb(235, 199, 0);
+    text-decoration: underline;
+}
+#tel
+{
+    font-size: 20px;
+    padding-left: 30px;
+}
+#insta
+{
+    font-size: 20px;
+    padding-left: 30px;
+}
+#git
+{
+    font-size: 20px;
+    padding-left: 30px;
+}
+#github
+{
+    color: white;
+    text-decoration: none;
+}
+#github:hover
+{
+    text-decoration: underline;
+    color: rgb(235, 199, 0);
+}
+#email
+{
+    font-size: 20px;
+    padding-left: 30px;
+}
+#insta_logo
+{
+    width: 30px;
+    position: absolute;
+    padding-left: 20px;
+}
+#github_logo
+{
+    width: 30px;
+    position: absolute;
+    padding-left: 20px;
+}
+#whatsapp_logo
+{
+    width: 30px;
+    position: absolute;
+    padding-left: 20px;
+}
+#gmail_logo
+{
+    width: 80px;
+    position: absolute;
+    padding-left: 20px;
+}
+.students
+{
+    text-align: center;
+}
+#students
+{
+    padding-top: 50px;
+    width: 250px;
+}
+#mensagem
+{
+    font-size: 25px;
+    padding-left: 30px;
+}
+#formulario
+{
+    font-size: 18px;
+    padding-left: 30px;
+}
+#mensagembox
+{
+    height: 50px;
+    padding-left: 0;
+    width: 400px;
+    height: 100px;
+}
+#nome
+{
+    width: 290px;
+}
+#idade
+{
+    width: 45px;
+}
+textarea
+{
+    display: flex;
+    position: relative;
+}
+form
+{
+    color: rgb(235, 199, 0);
+    border: 2px solid rgb(235, 199, 0);
+    border-radius: 50px;
+    font-family: cursive;
+}
+input[type=submit]
+{
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-weight: bold;
+}
+input[type=submit]:hover
+{
+    background-color: rgb(235, 199, 0);
+    cursor: pointer;
+}
+input[type=reset]
+{
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-weight: bold;
+    margin-left: 15px;
+}
+input[type=reset]:hover
+{
+    background-color: rgb(235, 199, 0);
+    cursor: pointer;
+}
+
+
+  

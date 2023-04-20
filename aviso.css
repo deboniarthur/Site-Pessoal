@@ -1,0 +1,124 @@
+/* Aluno: Arthur Guilherme do Nascimento Deboni */ /* Aluno: Arthur Guilherme do Nascimento Deboni */
+/* Matrícula: 1230105304 */ /* Matrícula: 1230105304 */
+/* Turma: A(Segunda e Quinta) */ /* Turma: A(Segunda e Quinta) */
+
+body
+{
+    color: white;
+    background-color: rgb(22, 22, 22);
+    font-family: monospace;
+}
+ul
+{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    font-size: 20px;
+    align-items: center;
+    padding-top: 15px;
+}
+#contato
+{
+    padding-right: 125px;
+}
+#blog
+{
+    color: white;
+    text-decoration: none;
+    padding-left: 60px;
+}
+#blog:hover
+{
+    color: rgb(235, 199, 0);
+    text-decoration: underline;
+}
+#contato
+{
+    color: white;
+    text-decoration: none;
+    padding-left: 115px;
+}
+#contato:hover
+{
+    color: rgb(235, 199, 0);
+    text-decoration:  underline;
+}
+#portfolio
+{
+    text-decoration: none;
+    color: white;
+    padding-right: 70px;
+}
+#portfolio:hover
+{
+    text-decoration: underline;
+    color: rgb(235, 199, 0);
+} 
+#academico
+{
+    text-decoration: none;
+    color: white;
+    padding-right: 60px;
+}
+#academico:hover
+{
+    text-decoration: underline;
+    color: rgb(235, 199, 0);
+}
+#novidades
+{
+    text-decoration: none;
+    color: white;
+    padding-right: 200px;
+}
+#novidades:hover
+{
+    text-decoration: underline;
+    color: rgb(235, 199, 0);
+}
+h1
+{
+    color: rgb(235, 199, 0);
+    padding-left: 30px;
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    padding-top: 170px;
+}
+.button
+{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 80px;
+}
+.botao
+{
+    width: 500px;
+    height: 155px;
+    color: white;
+    text-transform: uppercase;
+    font-size: 50px;
+    border-radius: 50px;
+}
+#aviso
+{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+}
+#aviso:hover
+{
+    border: 3px black solid;
+}
+#emoji
+{
+    font-size: 150px;
+    display: inline;
+}
+.emoji
+{
+    text-align: center;
+    padding-top: 40px;
+}
